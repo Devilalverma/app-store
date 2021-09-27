@@ -1,0 +1,18 @@
+img {
+    height: 300px;
+    width: 200px;
+}
+button {
+    background-color:#03fc07;
+    height: 50px;
+    width: 100px;
+}
+body {
+    background-color: #fc03be;
+    text-align: center;
+}
+#h {
+    height: 200px;
+    width: 450px;
+    font-size: 50px;
+}
